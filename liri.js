@@ -1,7 +1,8 @@
 require("dotenv").config();
-var stuffINeed = require("./keys.js")
+var keys = require("./keys.js")
 var request = require("request");
 var fs = require("fs");
+var Twitter = require('twitter');
 
 // var spotify = new Spotify(keys.spotify);
 var client = new Twitter(keys.twitter);
@@ -15,39 +16,44 @@ if(operator === "movie-this"){
 }
 else if(operator === "my-tweets"){
   myTweets();
+}
+else if(operator === "spotify-this-song"){
+    spotify();
+}
+else if(operator === "do-what-it-says"){
+    spotify();
+}
 
 function myTweets() {
     var divider = "\n-------------------------------";
-// //     this.loadTweets = function (tweets) {
-    // var URL = "https://api.twitter.com/1.1/search/tweets.json?q="+ tweetSearch + "%20new%20premium
-        request(client, function (error, response, body) {
-            if (error) {
-                console.log(error);
-                return
-            };
-        
-            var jsonData = JSON.parse(body);
+        var params = {screen_name: 'Helen20606361'};
+        client.get('statuses/user_timeline', params, function(error, tweets, response) {
+            if (!error) {
+                console.log(tweets);
+            }
+            // typeof(tweets);
+            // console.log(tweets, null, 2);
+            // var jsonData = JSON.parse(tweets);
+            for(var i = 0; i < tweets.length; i++){
             var tweetData = [
-                "user: " + jsonData.user.name,
-                "Tweet: " + jsonData.text,
-                "Posted On: " + jsonData.created_at,
+                "user: " + tweets[i].user.name,
+                "Tweet: " + tweets[i].text,
+                "Posted On: " + tweets[i].created_at,
             ].join("\n\n");
-
+                console.log(tweetData);
             fs.appendFile("log.txt", tweetData + divider, function (error) {
                 if (error) throw error;
                 console.log(tweetData);
             });
-        })
-    };
-// }
+        }
+    });
+};
 
-// * `spotify-this-song`
+// * FInd songs on Spo
+function spotify() {
+    var divider = "\n-------------------------------";
 
-// // node liri.js spotify-this-song '<song name here>'
-// var songSearch = process.argv.slice(3).join(" ");
-// console.log(songSearch);
-
-
+}
 // * `movie-this`
 function movie() {
     var divider = "\n-------------------------------";
@@ -80,5 +86,6 @@ function movie() {
             });
         });
 };
-}
+
 // * `do-what-it-says`
+// var callSpotify
