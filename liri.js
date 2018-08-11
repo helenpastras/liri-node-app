@@ -3,7 +3,7 @@ var keys = require("./keys.js")
 var request = require("request");
 var fs = require("fs");
 var Twitter = require("twitter");
-var Spotify = require('node-spotify-api');
+var Spotify = require("node-spotify-api");
 
 
 var spotify = new Spotify(keys.spotify);
@@ -52,33 +52,34 @@ function myTweets() {
 };
 
 // * FInd songs on Spo
-function spotify() {
-    var divider = "\n-------------------------------";
-    
-    spotify.search({ type: 'track', query: 'searchTerm' }, function (err, data) {
-        if (err) {
-            return console.log('Error occurred: ' + err);
-        }
-        console.log(data);
-    });
-    for(var i = 0; i < spotify.length; i++){
-    var spotifyData = [
-        "Artist(s): " + spotify[i].artist.name,
-        "The song's name: " + spotify[i].text,
-        "A preview link of the song from Spotify: " + tweets[i].created_at,
-        "Album: " + spotify.album.name
-    ].join("\n\n");
-    console.log(tweetData);
-    fs.appendFile("log.txt", tweetData + divider, function (error) {
-        if (error) throw error;
-        console.log(spotifyData);
-    });
-    // // var params = {screen_name: 'Helen20606361'};
-    
-    //     for(var i = 0; i < tweets.length; i++){
-    //    
-    }
-}
+// function spotify() {
+//     var divider = "\n-------------------------------";
+//     var query = searchTerm;
+//     spotify.search({ type: 'track', query: "query" }, function (err, data) {
+//         if (err) {
+//             return console.log('Error occurred: ' + err);
+//         }
+//         else if (!searchTerm) {
+//             searchTerm = "The Sign";
+//             console.log("The Sign by Ace of Base");
+//         }
+//         console.log(data);
+//         console.log("spotify works");
+//     });
+//     for (var i = 0; i < spotify.length; i++) {
+//         var spotifyData = [
+//             "Artist(s): " + jsonData[i].artists.name,
+//             "The song's name: " + jsonData[i].track.name,
+//             "A preview link of the song from Spotify: " + jsonData[i].uri,
+//             "Album: " + jsonData.album.name
+//         ].join("\n\n");
+//         console.log(spotifyData);
+//         fs.appendFile("log.txt", spotifyData + divider, function (error) {
+//             if (error) throw error;
+//             console.log(spotifyData);
+//         });
+//     }
+// };
 
 // * `movie-this`
 function movie() {
@@ -90,16 +91,23 @@ function movie() {
         if (error) {
             console.log(error);
             return
-        };
+        }
+        else if (!searchTerm) {
+            searchTerm = "Mr. Nobody";
+            console.log("If you haven't watched Mr. Nobody, then you should: <http://www.imdb.com/title/tt0485947/>. It's on Netflix!");
+        }
+        
         var jsonData = JSON.parse(body);
-
-        console.log(jsonData, null, 2);
+        
+        console.log(body, null, 2);
 
         var movieData = [
             "Title: " + jsonData.Title,
             "Year: " + jsonData.Year,
-            "IMDB Rating: " + jsonData.Ratings[0].Source.Value,
-            "Rotten Tomatoes Rating: " + 'no rating' || jsonData.Ratings[1].Source.Value,
+            // "IMDB Rating: " + body.Ratings.Source.Value,
+            "IMDB Rating: " + jsonData.imdbRating,
+            // "Rotten Tomatoes Rating: " + 'no rating' || body.Ratings[1].Source.Value,
+            "Rotten Tomatoes Rating: " + jsonData.tomatoRating,
             "Country: " + jsonData.Country,
             "Language: " + jsonData.Language,
             "Plot: " + jsonData.Plot,
