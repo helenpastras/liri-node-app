@@ -203,4 +203,169 @@ Posted On: Wed Aug 08 02:15:45 +0000 2018
 Tweet: RT @LAWeekly: New documentary tells the story of George Albert "Scotty" Bowers, a former marine who worked out of a gas station and became,…
 
 Posted On: Wed Aug 08 02:15:41 +0000 2018
+-------------------------------user: Helen
+
+Tweet: RT @discoverLA: Street art and IPAs? We are sold. See our 11 favorite spots in the Arts District craft brewery scene https://t.co/BvTy35xEP…
+
+Posted On: Wed Aug 08 02:16:11 +0000 2018
+-------------------------------user: Helen
+
+Tweet: RT @LAWeekly: Artisanal Brewers Collective has the hops covered across the Southland, from the Belgian-focused Bluebird Brasserie in Sherma…
+
+Posted On: Wed Aug 08 02:16:07 +0000 2018
+-------------------------------user: Helen
+
+Tweet: RT @LANow: USC names retired aerospace executive as acting president, announces Nikias' departure https://t.co/PUl7D8cTDO
+
+Posted On: Wed Aug 08 02:16:03 +0000 2018
+-------------------------------user: Helen
+
+Tweet: RT @DistilledSpirit: New Poll Finds Consumers Prefer Distilled Spirits Over Beer, Wine: Preference for Cocktails Among Most Groups: https:/…
+
+Posted On: Wed Aug 08 02:15:45 +0000 2018
+-------------------------------user: Helen
+
+Tweet: RT @LAWeekly: New documentary tells the story of George Albert "Scotty" Bowers, a former marine who worked out of a gas station and became,…
+
+Posted On: Wed Aug 08 02:15:41 +0000 2018
+-------------------------------Artist(s): "Madonna"
+
+The song's name: "Holiday"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/707260adff8a4d4b5b041ee5abeebe04ac9831ec?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"},"href":"https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW","id":"6tbjWDEIzxoDsBA1FuhfPW","name":"Madonna","type":"artist","uri":"spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","VN","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"},"href":"https://api.spotify.com/v1/albums/5lrlWKjNY0eTDXp9Bd3LpW","id":"5lrlWKjNY0eTDXp9Bd3LpW","images":[{"height":635,"url":"https://i.scdn.co/image/531de971ded7b88667d1aa42b0bdd0643b537e4e","width":640},{"height":298,"url":"https://i.scdn.co/image/f92b205cfa4aa3ac4f514bcb30c2a39b2e87f00c","width":300},{"height":63,"url":"https://i.scdn.co/image/4bb79c3f2decb0a5864b8e69f546237180ae0e31","width":64}],"name":"Madonna (Reissue)","release_date":"1983-07-27","release_date_precision":"day","total_tracks":10,"type":"album","uri":"spotify:album:5lrlWKjNY0eTDXp9Bd3LpW"}
+-------------------------------Artist(s): "Madonna"
+
+The song's name: "Holiday"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/707260adff8a4d4b5b041ee5abeebe04ac9831ec?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"},"href":"https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW","id":"6tbjWDEIzxoDsBA1FuhfPW","name":"Madonna","type":"artist","uri":"spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","VN","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"},"href":"https://api.spotify.com/v1/albums/5lrlWKjNY0eTDXp9Bd3LpW","id":"5lrlWKjNY0eTDXp9Bd3LpW","images":[{"height":635,"url":"https://i.scdn.co/image/531de971ded7b88667d1aa42b0bdd0643b537e4e","width":640},{"height":298,"url":"https://i.scdn.co/image/f92b205cfa4aa3ac4f514bcb30c2a39b2e87f00c","width":300},{"height":63,"url":"https://i.scdn.co/image/4bb79c3f2decb0a5864b8e69f546237180ae0e31","width":64}],"name":"Madonna (Reissue)","release_date":"1983-07-27","release_date_precision":"day","total_tracks":10,"type":"album","uri":"spotify:album:5lrlWKjNY0eTDXp9Bd3LpW"}
+-------------------------------Artist(s): "Pink Floyd"
+
+The song's name: "The Trial"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/1932ed11a4364952c4a60eb47536a042809e73a3?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"},"href":"https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9","id":"0k17h0D3J5VfsdmQ1iZtE9","name":"Pink Floyd","type":"artist","uri":"spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"}],"available_markets":["AR","AU","BO","BR","CA","CL","CO","CR","DO","EC","GT","HK","HN","ID","IL","JP","MX","MY","NI","NZ","PA","PE","PH","PY","SG","SV","TH","TW","US","UY","VN","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"},"href":"https://api.spotify.com/v1/albums/5Dbax7G8SWrP9xyzkOvy2F","id":"5Dbax7G8SWrP9xyzkOvy2F","images":[{"height":640,"url":"https://i.scdn.co/image/61fbfc12c92752d2334547c00d5f13b8b7edba94","width":640},{"height":300,"url":"https://i.scdn.co/image/464f49ec36104a5939ea76cf1597a5311d91f602","width":300},{"height":64,"url":"https://i.scdn.co/image/1e8320282c222089439b3b775008fde1080efde8","width":64}],"name":"The Wall","release_date":"1979-11-30","release_date_precision":"day","total_tracks":26,"type":"album","uri":"spotify:album:5Dbax7G8SWrP9xyzkOvy2F"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: {"album_type":"album","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"},"href":"https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4","id":"26dSoYclwsYLMAKD3tpOr4","name":"Britney Spears","type":"artist","uri":"spotify:artist:26dSoYclwsYLMAKD3tpOr4"}],"available_markets":["AD","AR","AT","AU","BE","BG","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","EC","EE","ES","FI","FR","GB","GR","GT","HN","HU","ID","IE","IL","IS","IT","JP","LI","LT","LU","LV","MC","MT","MX","MY","NI","NL","NO","NZ","PA","PE","PH","PL","PT","PY","RO","SE","SG","SK","SV","TH","TR","TW","US","UY","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"},"href":"https://api.spotify.com/v1/albums/0z7pVBGOD7HCIB7S8eLkLI","id":"0z7pVBGOD7HCIB7S8eLkLI","images":[{"height":640,"url":"https://i.scdn.co/image/b2342acfe664a82d40c3a786e4db43f2d5562ce9","width":640},{"height":300,"url":"https://i.scdn.co/image/d523c16a8c05c5a3ce7dff050f144573df6a9093","width":300},{"height":64,"url":"https://i.scdn.co/image/882c420c3dcd6ade7c06184dfc2b12801e8c5398","width":64}],"name":"In The Zone","release_date":"2003-11-17","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:0z7pVBGOD7HCIB7S8eLkLI"}
+-------------------------------Artist(s): "Britney Spears"
+
+The song's name: "Toxic"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: "In The Zone"
+-------------------------------Artist(s): "MihTy"
+
+The song's name: "The Light"
+
+A preview link of the song from Spotify: null
+
+Album: "The Light"
+-------------------------------Artist(s): "Backstreet Boys"
+
+The song's name: "I Want It That Way"
+
+A preview link of the song from Spotify: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4bb0f80af399478dbcdf9c4012cc0692"
+
+Album: "The Hits--Chapter One"
 -------------------------------

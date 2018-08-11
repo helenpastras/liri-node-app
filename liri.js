@@ -20,10 +20,11 @@ else if (operator === "my-tweets") {
     myTweets();
 }
 else if (operator === "spotify-this-song") {
-    spotify();
+    console.log('hiii')
+    spotif(searchTerm);
 }
 else if (operator === "do-what-it-says") {
-    spotify();
+    doWhat();
 }
 
 function myTweets() {
@@ -51,35 +52,35 @@ function myTweets() {
     });
 };
 
-// * FInd songs on Spo
-// function spotify() {
-//     var divider = "\n-------------------------------";
-//     var query = searchTerm;
-//     spotify.search({ type: 'track', query: "query" }, function (err, data) {
-//         if (err) {
-//             return console.log('Error occurred: ' + err);
-//         }
-//         else if (!searchTerm) {
-//             searchTerm = "The Sign";
-//             console.log("The Sign by Ace of Base");
-//         }
-//         console.log(data);
-//         console.log("spotify works");
-//     });
-//     for (var i = 0; i < spotify.length; i++) {
-//         var spotifyData = [
-//             "Artist(s): " + jsonData[i].artists.name,
-//             "The song's name: " + jsonData[i].track.name,
-//             "A preview link of the song from Spotify: " + jsonData[i].uri,
-//             "Album: " + jsonData.album.name
-//         ].join("\n\n");
-//         console.log(spotifyData);
-//         fs.appendFile("log.txt", spotifyData + divider, function (error) {
-//             if (error) throw error;
-//             console.log(spotifyData);
-//         });
-//     }
-// };
+// * Find songs on Spotify
+function spotif(searchTerm) {
+    var divider = "\n-------------------------------";
+        console.log(searchTerm);
+
+    if (!searchTerm) {
+        searchTerm = "The Sign";
+        console.log("The Sign by Ace of Base");
+    }
+        
+    spotify.search({ type: 'track', query: searchTerm, limit: 1 }, function (err, data) {
+        if (err) {
+            return console.log('Error occurred: ' + err);
+        }
+        
+        console.log("spotify works");
+        var spotifyData = [
+            "Artist(s): " + JSON.stringify(data.tracks.items[0].artists[0].name),
+            "The song's name: " + JSON.stringify(data.tracks.items[0].name),
+            "A preview link of the song from Spotify: " + JSON.stringify(data.tracks.items[0].preview_url),
+            "Album: " + JSON.stringify(data.tracks.items[0].album.name)
+        ].join("\n\n");
+        console.log(spotifyData);
+        fs.appendFile("log.txt", spotifyData + divider, function (error) {
+            if (error) throw error;
+            // console.log(spotifyData);
+        });
+    });    
+};
 
 // * `movie-this`
 function movie() {
@@ -122,4 +123,21 @@ function movie() {
 };
 
 // * `do-what-it-says`
-// var callSpotify
+function doWhat() {
+
+    fs.readFile('./random.txt', 'utf8', (err, data) => {
+        if (err) throw err;
+        // console.log(data);
+        var song = data.split(',')[1];
+        // console.log(data.split(',')[1]);
+
+        spotif(song);
+
+        })
+        // .then(function(callback){
+        //     var action = answer;
+        //     console.log(action);
+        //     callback();
+        // });
+        // spotify(action);
+};
